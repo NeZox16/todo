@@ -1,0 +1,17 @@
+.nav {
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.nav-link {
+    border-radius: 3px;
+    color: #fff;
+    background: #04d338;
+    font-size: 18px;
+    transition: all .5s ease;
+}
+
+.nav-link:hover {
+    background: #0aa130;
+    color: #cac8c8;
+}
